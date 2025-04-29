@@ -2,7 +2,8 @@
 <h3 align="center">React Native Developer | Software Engineer | Software Project Manager</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=3498DB&center=true&vCenter=true&width=435&lines=React+Native+Developer;JavaScript+%7C+Node.js+%7C+PostgreSQL;Mobile+App+Builder+%7C+Problem+Solver;Open+to+collaborate+on+cool+projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=5000&pause=1000&color=3498DB&center=true&vCenter=true&width=600&lines=React+Native+Developer;JavaScript+%7C+Node.js+%7C+PostgreSQL;Mobile+App+Builder+%7C+Problem+Solver;Open+to+collaborate+on+cool+projects" alt="Typing SVG" />
+
 </p>
 
 ---
