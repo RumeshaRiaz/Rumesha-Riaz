@@ -10,9 +10,9 @@
 - 🔭 I’m currently working on: **AI-integrated mood-based music app**
 - 🌱 I’m learning: **Advanced Flask + AI APIs**
 - 💬 Ask me about: **React Native, Node.js, PostgreSQL, UI/UX**
-- 💼 React Native Developer Intern at **IRMedia Agency, Sargodha**
+- 💼 React Native Developer Intern at **IRMedia Agency**
 - 📫 Reach me at: **rumeshariazsrg@gmail.com**
-- 🌐 [**Portfolio Website**](https://rumeshariaz.vercel.app)
+- 🌐 [**Portfolio Website**](https://my-portfolio-ebon-five-71.vercel.app/)
 - 📄 [**Resume**](https://drive.google.com/file/d/1EjPYefdWmUWe0YpQGrezNeKILXod8fIf/view?usp=drive_link)
 
 ---
