@@ -13,7 +13,7 @@
 - 💼 React Native Developer Intern at **IRMedia Agency, Sargodha**
 - 📫 Reach me at: **rumeshariazsrg@gmail.com**
 - 🌐 [**Portfolio Website**](https://rumeshariaz.vercel.app)
-- 📄 [**Resume**](https://drive.google.com/YOUR_RESUME_LINK)
+- 📄 [**Resume**](https://drive.google.com/file/d/1EjPYefdWmUWe0YpQGrezNeKILXod8fIf/view?usp=drive_link)
 
 ---
 
